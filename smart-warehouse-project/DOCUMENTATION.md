@@ -9,9 +9,9 @@ This document provides a detailed technical overview of the Smart Warehouse & In
 
 ### Application Previews
 
-![Thumbworx Analytics Dashboard](smart-warehouse-project/docs/images/SmartWarehouseIndiv.png)
+![Thumbworx Analytics Dashboard](docs/images/SmartWarehouseIndiv.png)
 
-![Smart Warehouse Metabase UI](smart-warehouse-project/docs/images/SmartWarehouse-nextjs.png)
+![Smart Warehouse Metabase UI](docs/images/SmartWarehouse-nextjs.png)
 
 ---
 ## Table of Contents
